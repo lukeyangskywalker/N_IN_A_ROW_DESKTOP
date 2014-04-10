@@ -5,4 +5,6 @@ N in a row is a game that allows you to customize your game, make it a tictactoe
 
 select NinARow.jar to play the game
 
+Main focus when making this game is to design using the Model View Controller(MVC) model.
+
 code is in the code folder.
